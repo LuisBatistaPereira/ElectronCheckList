@@ -1,0 +1,24 @@
+{
+  "name": "electronchecklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisBatistaPereira/ElectronCheckList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisBatistaPereira/ElectronCheckList/issues"
+  },
+  "homepage": "https://github.com/LuisBatistaPereira/ElectronCheckList#readme",
+  "dependencies": {
+    "electron": "^16.0.8",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
